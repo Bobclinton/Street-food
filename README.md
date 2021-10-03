@@ -15,7 +15,7 @@ Bobclinton.
  The project is setup in the visual studio code by creating an HTML file and a related CSS file and adding the relevant assets required during the development process. 
 
  ## Project Objectives
- During the development process of Street-food project, :
+ During the development process of Street-food project,the following has to be considered:
 
 
  * The implementation of HTML concepts is covered so far in this module.

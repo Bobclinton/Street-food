@@ -9,6 +9,7 @@ Bobclinton
 
  ### Email: bobclinton1998@gmail.com
  ### phone: 0797085133.
+ ### Linkedin:
 
  ## Setup and Installation Instructions
  The project is setup in the visual studio code by creating an HTML file and a related CSS file.

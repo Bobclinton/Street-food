@@ -15,7 +15,7 @@ Bobclinton.
  The project is setup in the visual studio code by creating an HTML file and a related CSS file and adding the relevant assets required during the development process. 
 
  ## Project Objectives
- The project is to be evaluated on the following ways:
+ The Street-food on the following ways:
 
 
  * The implementation of HTML concepts is covered so far in this module.

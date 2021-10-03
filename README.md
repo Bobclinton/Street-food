@@ -14,7 +14,7 @@ Bobclinton
  The project is setup in the visual studio code by creating an HTML file and a related CSS file.
 
  ## Project Objectives
- The project is to be evaluated on the following objectives;
+ The project is to be evaluated on the following ways:
 
 
  * The implementation of HTML concepts is covered so far in this module.

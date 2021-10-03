@@ -1,17 +1,14 @@
 # Street Food Website
-This is a webiste designed and developed under the requirement of Moringa School in fulfillment of one's obligation to complete week two of Moringa School coding bootcamp. Instructions are adhered to by ensuring that only HTML and CSS are used throughout the project.
+This is a webiste designed and developed to test my  knowledge in css  and html.THe website is about street food. Only CSS and html are used in the development of this site.
 
 ## Author
- Marcos Ochieng - Student at Moringa School.
+Bobclinton
 
  ## Contact
- Kindly reach out to me through the following contacts;
+ Kindly reach me through the following contacts;
 
- ### Email: marcos.otieno@student.moringaschool.com
- ### phone: +254 702 854 204
-
- ## Technologies Used
- Vanilla HTML and CSS
+ ### Email: bobclinton1998@gmail.com
+ ### phone: 0797085133
 
  ## Setup and Installation Instructions
  The project is setup in the visual studio code by creating an HTML file and a related CSS file.
@@ -22,18 +19,17 @@ This is a webiste designed and developed under the requirement of Moringa School
 
  * The implementation of HTML concepts is covered so far in this module.
  * The project includes a custom-made stylesheet that uses typography styles, cascading, the box     model, and floats.
-* Code is clean, well-refactored, and easy to read. This includes correct indentation, spacing, and including only necessary comments.
-* Commits are made regularly with clear messages that finish  the phrase "It will…"
-8 The project repo contains a README that includes:
-* author-name
-* project or program name
-* description of program
-* program setup instructions
-* link to the site on GitHub Pages
-* copyright and license information
-* The project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
-* Required content was in place by the deadline.
+ * Code is clean, well-refactored, and easy to read. This includes correct indentation, spacing, and including only necessary comments.
+ * Commits are made regularly with clear messages that finish  the phrase "It will…"
+ * The project repo contains a README that includes:
+ * author-name
+ * project or program name
+ * description of program
+ * program setup instructions
+ * link to the site on GitHub Pages
+ * copyright and license information
+ * The project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
+ * Required content was in place by the deadline.
 
 ## License and Copyright
-© Marcos Ochieng, Moringa school Independent project. [MIT](https://choosealicense.com/licenses/mit/)
-
+© Bobclint 2021

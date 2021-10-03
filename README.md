@@ -8,7 +8,7 @@ Bobclinton
  Kindly reach me through the following contacts;
 
  ### Email: bobclinton1998@gmail.com
- ### phone: 0797085133
+ ### phone: 0797085133.
 
  ## Setup and Installation Instructions
  The project is setup in the visual studio code by creating an HTML file and a related CSS file.

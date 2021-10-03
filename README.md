@@ -1,5 +1,5 @@
 # Street-food
-This is a webiste designed and developed to test my  knowledge in css  and html.THe website is about street food. Only CSS and html are used in the development of this site.
+This is a webiste designed and developed to test my  knowledge in css  and html.The website is about street food. Only CSS and html are used in the development of this site.
 
 ## Author
 Bobclinton.
